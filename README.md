@@ -3,3 +3,5 @@ Para realizar el trabajo utilicé las tipografias Montserrat e iNTER y una resol
 Cuento con 3 archivos html principales que son el Index, Galeria y Contacto,
 en los cuales podrán visualizar una bienvenida, una presentación sobre mí, una galeria de imágenes con los trabajos que eh realizado,
 un video con sonido armado con imagenes de un trabajo realizado en la universidad, un formulario de contacto y animaciones.
+
+link: https://github.com/joanaorue2025/tp3-portfolio
